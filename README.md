@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/26vACLXgansDXwHzzI/giphy.gif" width="500" height="300"/>
+</div>
+
+---
+### :man_technologist: About Me :
 - 👋 Hi, I'm Huy
 - 👀 I'm interested in the fascinating world of data analytics and its applications. I believe that data holds the key to unlocking valuable insights and driving informed decision-making. I'm passionate about exploring and analyzing complex datasets to extract meaningful patterns and trends.
 - 🌱 I’m currently learning various data analytics techniques and tools, such as statistical analysis, data visualization, machine learning, and predictive modeling. I'm also familiarizing myself with programming languages like Python as well as popular data analysis libraries and frameworks.

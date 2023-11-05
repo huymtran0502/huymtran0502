@@ -7,6 +7,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
 ---
 ### :man_technologist: About Me :
 - 👋 Hi, I am Huy and I am working as a Data Analyst and aspiring to work on Machine Learning and Deep Learning.
@@ -14,8 +15,3 @@
 - 🌱 I’m currently learning various data analytics techniques and tools, such as statistical analysis, data visualization, machine learning, and predictive modeling. I'm also familiarizing myself with programming languages like Python as well as popular data analysis libraries and frameworks.
 - 💞️ I’m looking to collaborate on with fellow data enthusiasts and professionals on exciting projects that involve data analytics. I believe that teamwork and knowledge sharing are crucial for pushing the boundaries of what can be achieved with data. If you have any interesting projects or ideas, feel free to reach out!.
 - 📫 How to reach me email: huymtran0502@gmail.com
-
-<!---
-huymtran0502/huymtran0502 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

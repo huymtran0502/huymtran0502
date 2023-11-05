@@ -1,7 +1,12 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/26vACLXgansDXwHzzI/giphy.gif" width="500" height="300"/>
+  <img src="https://media.giphy.com/media/UDclWKlmfmq7twI3iJ/giphy.gif" width="400" height="400"/>
 </div>
 
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/notifications/?filter=all">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 ---
 ### :man_technologist: About Me :
 - 👋 Hi, I am Huy and I am working as a Data Analyst and aspiring to work on Machine Learning and Deep Learning.
